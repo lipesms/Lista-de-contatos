@@ -37,7 +37,7 @@ Como parte de um exercicio, o desenvolvedor deve ser capaz de:
 
 - Fazer uma aplicação mostrando todos os contatos salvos
 - Criar uma opção para alterar cada contato
-- Criar a opçõ de excluir contato e a de cadastrar um novo na lista
+- Criar a opção de excluir contato e a de cadastrar um novo na lista
 - Utilizar redux para realizar o controle dos estados da aplicação
 
 Veja o resultado através do <a href="https://lista-de-contatos-psi.vercel.app/">link do Vercel</a>
