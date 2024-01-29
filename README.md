@@ -1,46 +1,52 @@
-# Getting Started with Create React App
+<h1 align="center">
+Lista de contato com Redux
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+    <a href="https://lista-de-contatos-psi.vercel.app/">
+        <img alt="License" src="./src/assets/preview.PNG">
+    </a>
+</p>
 
-## Available Scripts
+<p align="center">
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#desafio">Desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#o-que-aprendi">O que aprendi</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-In the project directory, you can run:
+## 🚀 Tecnologias
 
-### `npm start`
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- React
+- Typescript
+- Prettier
+- eslint
+- Redux toolkit
+- Styled components
+- Git e Github
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Projeto
 
-### `npm test`
+O projeto se trata de uma página para armazenar contatos em uma lista, com design simples para facilitar sua usabilidade, este site foi criado com principal objetivo o estudo e funcionalidades do Redux toolkit
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Desafio
 
-### `npm run build`
+Como parte de um exercicio, o desenvolvedor deve ser capaz de:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Fazer uma aplicação mostrando todos os contatos salvos
+- Criar uma opção para alterar cada contato
+- Criar a opçõ de excluir contato e a de cadastrar um novo na lista
+- Utilizar redux para realizar o controle dos estados da aplicação
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Veja o resultado através do <a href="https://lista-de-contatos-psi.vercel.app/">link do Vercel</a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## O que aprendi
 
-### `npm run eject`
+Com o objetivo de praticas mais o controle de estados com Redux, enquanto faço um site com tecnologias atuais utilizadas no mercado, eu aprendi com este projeto a:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Criar layouts complexos utilizando styled components
+- Estruturar pastas para manter a organização do sistema
+- Utilizar typescript para desenvolver sistemas junto a outras tecnologias
+- Fazer uso do Redux para centralizar o estado da aplicação em um root reducer
